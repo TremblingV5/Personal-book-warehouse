@@ -1,0 +1,9 @@
+git init 初始化git仓库
+
+git clone [ssh] 克隆代码
+
+git remote [name] [ssh] 创建remote
+
+git pull --rebase [name] master 拉取操作
+
+git push -u [name] master 推送操作
